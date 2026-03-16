@@ -32,3 +32,16 @@ Acompanhe o detalhamento técnico de cada etapa:
 
 ---
 **Objetivo:** Demonstrar habilidades práticas com ferramentas open-source e criar uma base para práticas futuras focadas em Purple Team.
+
+
+## 🚀 Próximos Passos (Roadmap de Testes)
+
+Este repositório continuará sendo atualizado com novos laboratórios e testes de cibersegurança. Os próximos temas previstos são:
+
+- [ ] **Persistência em Windows:** Criação de serviços e chaves de registro para manter acesso pós-exploração.
+- [ ] **Escalação de Privilégio:** Exploração de vulnerabilidades de kernel e configurações incorretas (Misconfigurations) para obter privilégios de `SYSTEM`.
+- [ ] **Detecção Avançada (Sysmon):** Integração do Sysmon com o Wazuh para monitoramento detalhado de criação de processos e conexões de rede.
+- [ ] **Análise de Malware:** Simulação de execução de Ransomware em ambiente controlado para observar os alertas no SIEM.
+- [ ] **Hardening Automatizado:** Uso de scripts PowerShell e GPO para aplicar as mitigações sugeridas de forma automática.
+
+---
