@@ -49,4 +49,4 @@ Apesar da detecção eficaz dos logins, os comandos de pós-acesso via PowerShel
 3. **Análise comportamental:** Monitorar processos filhos suspeitos originados do serviço de RDP.
 
 ---
-[⬅️ Fase Ofensiva](02-fase-ofensiva.md) | [Ir para Mitigações e Conclusão ➡️](04-mitigacao-conclusao.md)
+[⬅️ Fase Ofensiva](02-fase-ofensiva.md) | [Ir para Mitigações e Conclusão ➡️](04-conclusao-mitigacao.md)
