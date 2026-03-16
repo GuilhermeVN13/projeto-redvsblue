@@ -28,7 +28,7 @@ Acompanhe o detalhamento técnico de cada etapa:
 1. [🌐 Configuração da Rede e Adaptadores](docs/01-configuracao-rede.md)
 2. [🔥 Fase Red Team: Ataque e Exploração](docs/02-fase-ofensiva.md)
 3. [🛡️ Fase Blue Team: Detecção e Alertas](docs/03-fase-defensiva.md)
-4. [🏁 Análise de Segurança e Mitigações](docs/04-mitigacao-conclusao.md)
+4. [🏁 Análise de Segurança e Mitigações](docs/04-conclusao-mitigacao.md)
 
 ---
 **Objetivo:** Demonstrar habilidades práticas com ferramentas open-source e criar uma base para práticas futuras focadas em Purple Team.
